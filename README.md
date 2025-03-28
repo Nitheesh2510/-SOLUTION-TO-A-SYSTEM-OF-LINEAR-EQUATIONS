@@ -24,7 +24,10 @@ C = np.linalg.solve(A,B)
 print(C)
 ```
 ## Output:
-![Screenshot 2025-03-12 100751](https://github.com/user-attachments/assets/3cd5809f-230d-49bb-8e9b-2ae0b285d6e6)
+
+![Screenshot 2025-03-28 142829](https://github.com/user-attachments/assets/9958050c-c666-477a-a62f-905c5bf58e95)
+
+
 ## Result: 
 
 Thus the solutions for the linear equations are successfully solved using python program
